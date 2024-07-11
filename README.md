@@ -1,0 +1,2 @@
+# QueteSQLDelete
+QueteSQLDelete
